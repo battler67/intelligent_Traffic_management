@@ -2,11 +2,13 @@
 
 Interactive traffic management dashboard built with React and a local YOLO-based analysis backend.
 
-##Demo Video
+## Demo Video
 
-<video controls width="600">
-  <source src="DIRECT_VIDEO_URL.mp4" type="video/mp4">
-</video>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=ndheRcY9i64">
+    <img src="https://img.youtube.com/vi/ndheRcY9i64/maxresdefault.jpg" width="700">
+  </a>
+</p>
 
 ## Features
 
