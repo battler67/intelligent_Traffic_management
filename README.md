@@ -3,7 +3,11 @@
 Interactive traffic management dashboard built with React and a local YOLO-based analysis backend.
 
 ##Demo Video
-<video src"C:\Users\seera\Videos\Captures\Traffic Flow Dashboard - Google Chrome 2026-03-12 23-46-12.mp4""></video>
+
+<video controls width="600">
+  <source src="DIRECT_VIDEO_URL.mp4" type="video/mp4">
+</video>
+
 ## Features
 
 - Streams per-second vehicle JSON from a local video source
